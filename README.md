@@ -1,6 +1,6 @@
 **Description**
 
-These hotkeys were made to reduce the time spent tiling records for comparision in the OCLC Connexion client. Though they were made with OCLC's Member Merge training in mind, they should be useful in other contexts where the user wants to tile records for comparison.
+These (clunky and slapdash) hotkeys were made to reduce the time spent tiling records for comparision in the OCLC Connexion client. Though they were made with OCLC's Member Merge training in mind, they should be useful in other contexts where the user wants to tile records for comparison.
 
 **Download AutoHotKey and macro files**
 1. Download AutoHotKey and run the installer: https://autohotkey.com/download/
