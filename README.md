@@ -1,6 +1,6 @@
 **Description**
 
-These (clunky and slapdash) hotkeys were made to reduce the time spent tiling records for comparision in the OCLC Connexion client. Though they were made with OCLC's Member Merge training in mind, they may be useful in other contexts where the user wants to tile and compare records. The scripts assume a user have a command line search such as *no: 629743 or no: 220509747 or no: 249919733* saved to their clipboard.
+These (clunky and slapdash) hotkeys were made to reduce the time spent tiling records for comparison in the OCLC Connexion client. Though they were made with OCLC's Member Merge training in mind, they may be useful in other contexts where the user wants to tile and compare records. The scripts assume a user have a command line search such as *no: 629743 or no: 220509747 or no: 249919733* saved to their clipboard.
 
 **Download AutoHotKey and macro files**
 1. Download AutoHotKey and run the installer: https://autohotkey.com/download/
